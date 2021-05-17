@@ -1,6 +1,6 @@
 ################################################################################
 # N.Kozak // Lviv'2020 // ACM // reactive(by RxPy) validator example by Python #
-#    file: acmhw26.py (renamed to main.py)                                     #
+#    file: acmhw27_2.py (renamed to main.py)                                   #
 ################################################################################
 #import rx
 #from rx.core import Observable
